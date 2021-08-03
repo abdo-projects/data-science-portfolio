@@ -46,7 +46,7 @@ For a more visually pleasing experience for browsing the portfolio, check out [a
      - [Dresses Sales Forecast for ModCloth Using Xgboost ](https://github.com/abdo-projects/data-science-portfolio/blob/main/Time_Series_Analysis/xgbregressor_modcloth.ipynb): Dresses Sales Forecast for ModCloth using Xgboost. Two different models based on two different learning rates will be implemented. We will calculate MAE, MSE, and RMSE for each model. Finally, we will forecast 20 periods with Xgboost (20 Months).
      - [Aircrafts Crashes Forecast Using Xgboost](https://github.com/abdo-projects/data-science-portfolio/blob/main/Time_Series_Analysis/xgbregressor_crashes.ipynb): Aviation Causality Forecasting using Xgboost to analyze and research historical airplane crashes and fatalities data and forecast future causalities for 20 periods (20 Months).
 
-*Tools: Statsmodels, Scikit-learn, Pandas, Seaborn, Matplotlib, Numpy.*
+*Tools: Statsmodels, xgboost, Scikit-learn, Pandas, Seaborn, Matplotlib, Numpy.*
 
 - ### Deep Learning
   - #### Convolutional Neural Network
