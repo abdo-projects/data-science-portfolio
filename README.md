@@ -36,7 +36,7 @@ For a more visually pleasing experience for browsing the portfolio, check out [a
 
 - ### Predictive Business Analytics
   - #### Market Basket Analysis
-     - [Association Rules For Covid Symptoms](https://github.com/abdo-projects/data-science-portfolio/blob/main/Market_Basket_Analysis/association_rules_covid_symptoms.ipynb): Association rules using the apriori algorithm that help to show the probability of relationships between different covid-19 symptoms.
+     - [Association Rules for Covid Symptoms](https://github.com/abdo-projects/data-science-portfolio/blob/main/Market_Basket_Analysis/association_rules_covid_symptoms.ipynb): Association rules using the apriori algorithm that help to show the probability of relationships between different covid-19 symptoms.
      - [Market Basket Analysis for Online Retail](https://github.com/abdo-projects/data-science-portfolio/blob/main/Market_Basket_Analysis/association_rules_online_retail.ipynb): Determine which products are most often bought in combination with each other to identify how customers' figure size will affect the purchasing pattern to have a better insight into inventory planning and better stock management.
 
 *Tools: Mlxtend, Pandas, Seaborn, Matplotlib, Numpy.*
