@@ -50,7 +50,7 @@ For a more visually pleasing experience for browsing the portfolio, check out [a
 
 - ### Deep Learning
   - #### Convolutional Neural Network
-     - [Passion Fruit Classification usingConvolutional Neural Network](https://github.com/abdo-projects/data-science-portfolio/blob/main/Convolutional_Neural_Network/CNN_Makisa.ipynb): Build a CNN architecture to perform classification between several cultivars of Passion Fruit (Markisa), notably the following cultivars of Markisa, Sweet Passion Fruit (Markisa Manis), Yellow Passion Fruit (Markisa Kuning), Purple Passion Fruit (Markisa Ungu), and Big Passion fruit (Markisa Besar).
+     - [Passion Fruit Classification using Convolutional Neural Network](https://github.com/abdo-projects/data-science-portfolio/tree/main/Convolutional_Neural_Network/Passion_Fruit_Classification_using_Convolutional_Neural_Network): Build a CNN architecture to perform classification between several cultivars of Passion Fruit (Markisa), notably the following cultivars of Markisa, Sweet Passion Fruit (Markisa Manis), Yellow Passion Fruit (Markisa Kuning), Purple Passion Fruit (Markisa Ungu), and Big Passion fruit (Markisa Besar).
 
 *Tools: Tensorflow, keras, Colab, Pandas, Seaborn, Matplotlib, Numpy.*
 
