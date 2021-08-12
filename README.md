@@ -51,6 +51,7 @@ For a more visually pleasing experience for browsing the portfolio, check out [a
 - ### Deep Learning
   - #### Convolutional Neural Network
      - [Passion Fruit Classification using Convolutional Neural Network](https://github.com/abdo-projects/data-science-portfolio/tree/main/Convolutional_Neural_Network/Passion_Fruit_Classification_using_Convolutional_Neural_Network): Build a CNN architecture to perform classification between several cultivars of Passion Fruit (Markisa), notably the following cultivars of Markisa, Sweet Passion Fruit (Markisa Manis), Yellow Passion Fruit (Markisa Kuning), Purple Passion Fruit (Markisa Ungu), and Big Passion fruit (Markisa Besar).
+     - [Classification of COVID-19 from Chest X-ray images using Transfer Learning](https://github.com/abdo-projects/data-science-portfolio/tree/main/Convolutional_Neural_Network/COVID-19_Radiography_Database_Classification_Using_Transfer_Learning): Build a CNN-based model with DenseNet201 transfer learning to detect coronavirus, Lung Opacity and Viral Pneumonia infected patients using chest X-ray radiographs and gives a classification accuracy of training accuracy of 94.5%, validation accuracy of 96.49 %, and validation AUC of 99.39%. The results demonstrate that transfer learning proved effective, showed robust performance, and was an easily deployable approach for COVID-19 detection.
 
 *Tools: Tensorflow, keras, Colab, Pandas, Seaborn, Matplotlib, Numpy.*
 
