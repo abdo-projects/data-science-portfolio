@@ -57,7 +57,7 @@ For a more visually pleasing experience for browsing the portfolio, check out [a
 
 - ### Natural Language Processing
   - #### Sentiment Analysis
-     - [Twitter Sentiment Analysis for Cryptocurrency Price Prediction](https://github.com/abdo-projects/data-science-portfolio/tree/main/Natural_Language_Processing/Twitter_Sentiment_Analysis_for_Cryptocurrency_Price_Prediction): Build a system that Connect to Twitter API V2 to collect relative posts related to BTC and store them into MySQL database, while using Hugging Face is an NLP library to provide sentiment analysis. The output from the library provides either "Positive," "Negative," or "Neutral," indicating the sentiment and store them back into the MySQL database..
+     - [Twitter Sentiment Analysis for Cryptocurrency Price Prediction](https://github.com/abdo-projects/data-science-portfolio/tree/main/Natural_Language_Processing/Twitter_Sentiment_Analysis_for_Cryptocurrency_Price_Prediction): Build a system that Connect to Twitter API V2 to collect relative posts related to BTC and store them into MySQL database, while using Hugging Face is an NLP library to provide sentiment analysis. The output from the library provides either "Positive," "Negative," or "Neutral," indicating the sentiment and store them back into the MySQL database.
      
 *Tools: Transformers, HuggingFace, Colab,Twitter API,Pandas, Numpy, MySQL.*
 
